@@ -1,0 +1,41 @@
+---
+title: "Binary Search"
+author: "Xuetong Sun"
+date: "7/17/2020"
+output:
+  md_document:
+    variant: markdown_github
+    toc: true
+    toc_depth: 2  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval=FALSE)
+library(reticulate)
+use_python("/usr/local/bin/python")
+```
+
+# Summary
+
+## Recursion or Non-Recursion
+
+## Key points
+
+## General template
+
+
+# Classical Problems
+
+## Any position
+
+Find any position of a target number in a sorted array. Return -1 if target does not exist.
+
+
+## First Position
+
+
+## Last Position
+
+
+
+
